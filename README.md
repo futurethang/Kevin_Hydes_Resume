@@ -42,7 +42,7 @@ Plan for and execute events ranging from small meetings to auditorium seminars, 
 * Deploy digital signage solution across 6 buildings
 * Quickly assist non-tech-savvy users with friendliness and patience, often in high-pressure scenarios
 
-**Co-Creator, Lead Guide & Researcher** • Seattle's Overlooked Art Tour • 2017 to Present
+**Co-Creator, Lead Guide & Researcher** • [Seattle's Overlooked Art Tour](http://www.overlookedarttour.com/) • 2017 to Present
 * Conduct extensive research into local history and industry to align with a walking route through Pioneer Square neighborhood
 * Conduct marketing, promotion, customer service, and guide groups of 4 to 70+ people with attention-grabbing presence and engaging information that leaves tour-takers inspired to view their urban landscape with new curiosity
 * Gather stories about Seattle’s unique manhole cover designs from local lore and the artists themselves
