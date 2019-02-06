@@ -14,11 +14,12 @@ Full-Stack Web Developer with a dedication to creative thinking, problem-solving
 #### TECHNICAL SKILLS 
 Node.Js, Express, JavaScript, jQuery, React.js, GIT, Github, MongoDB, MySQL, Firebase, HTML, CSS, Bootstrap, Media Queries, APIs, JSON, REST, AJAX, Adobe Creative Suite, Command line, Computer science fundamentals, Troubleshooting
 
-#### PROJECTS
-GuitHub - Front-End Developer
-A distraction-free video portal for searching and viewing guitar lesson videos.
-Used HTML, CSS, and JavaScript with the YouTube API to make a simple interface
-https://futurethang.github.io/YouTube_Guitar_Trainer/ | 
+#### RELEVANT PROJECTS
+Neighbor Corps - Full Stack Mobile Developer
+
+A React Native iOS app designed and developed within 4 week time frame. Built on NodeJS with Express & Mongo API. Utilize NPM packages for GPS, Media handling, Validations, Formatting, and more. Designed using Adobe XD and Avocode.
+[Neighbor Corps Repository on GitHub](https://github.com/UWBC-Final-Project/Neighbor-Corps-React-Native)
+
 Liri - Back-End Developer
 A Node App that prompts user input and returns search results for songs, concert, movies
 Uses API calls to OMDB, BandsInTown, and Spotify to show lists and detailed results
