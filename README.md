@@ -34,8 +34,8 @@ Used HTML, CSS, jQuery, AJAX, and the Giphy API.
 https://futurethang.github.io/Giftastic/ | 
 
 #### PROFESSIONAL EXPERIENCE
-##### UW Medical Research                                               2017 -  Present
-**Lead Media Technician**
+**UW Medical Research**                                               2017 -  Present
+##### Lead Media Technician
 * Oversee all in-house Audio Visual technology, mitigate and resolve issues, and assist users
 Plan for and execute events ranging from small meetings to auditorium seminars, break-out rooms, and outdoor solutions, hundreds annually
 * Track technology bugs and provide back-up solutions when needed
@@ -43,8 +43,8 @@ Plan for and execute events ranging from small meetings to auditorium seminars, 
 * Deploy digital signage solution across 6 buildings
 * Quickly assist non-tech-savvy users with friendliness and patience, often in high-pressure scenarios
 
-##### Seattle’s Overlooked Art Tour                                     2017 - Present
-**Co-Creator, Lead Guide and Researcher**
+**Seattle’s Overlooked Art Tour**                                     2017 - Present
+##### Co-Creator, Lead Guide and Researcher
 * Conduct extensive research into local history and industry to align with a walking route through Pioneer Square neighborhood
 * Conduct marketing, promotion, customer service, and guide groups of 4 to 70+ people with attention-grabbing presence and engaging information that leaves tour-takers inspired to view their urban landscape with new curiosity
 * Gather stories about Seattle’s unique manhole cover designs from local lore and the artists themselves
