@@ -42,20 +42,19 @@ Plan for and execute events ranging from small meetings to auditorium seminars, 
 * Deploy digital signage solution across 6 buildings
 * Quickly assist non-tech-savvy users with friendliness and patience, often in high-pressure scenarios
 
-**Seattle’s Overlooked Art Tour**                                     2017 - Present
-##### Co-Creator, Lead Guide and Researcher
+**Co-Creator, Lead Guide & Researcher** • Seattle's Overlooked Art Tour • 2017 to Present
 * Conduct extensive research into local history and industry to align with a walking route through Pioneer Square neighborhood
 * Conduct marketing, promotion, customer service, and guide groups of 4 to 70+ people with attention-grabbing presence and engaging information that leaves tour-takers inspired to view their urban landscape with new curiosity
 * Gather stories about Seattle’s unique manhole cover designs from local lore and the artists themselves
 
-##### Meeting Tomorrow Inc. - Company-Wide Roles                        2010 - 2016
+**Account Services Systems Administrator** • Meeting Tomorrow Inc. • 2010 to 2016
 Pivot-player in rapidly evolving small business environment
 * Generated $400k yearly revenue as Account Services Specialist
 * Innovated Sales Team Systems role, providing analytics, product development, team training sessions, and designing/implementing company-wide CRM and phone solutions
 * Maintained order quality for Fulfillment department, improving logistical solutions and negotiating daily operations within the nation-wide vendor network. Achieved avg. 60+% profit margin on all outsourced solutions
 * Leveraged adaptability and broad skills to contribute emergency talent to Marketing, IT, Special Events, and Warehouse departments
 
-##### Freelance Graphic Designer                                        2005 - Present
+**Freelance Graphic Designer** • 2005 to Present
 * Web and Print services for individuals and businesses
 * Strategize and execute marketing and communications to find new clients
 * Provide consultations, research, and detailed bids to customize scope and project options for deadline and budget constraints
