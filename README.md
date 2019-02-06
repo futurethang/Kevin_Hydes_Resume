@@ -48,7 +48,6 @@ Plan for and execute events ranging from small meetings to auditorium seminars, 
 * Gather stories about Seattle’s unique manhole cover designs from local lore and the artists themselves
 
 **Account Services Systems Administrator** • Meeting Tomorrow Inc. • 2010 to 2016
-Pivot-player in rapidly evolving small business environment
 * Generated $400k yearly revenue as Account Services Specialist
 * Innovated Sales Team Systems role, providing analytics, product development, team training sessions, and designing/implementing company-wide CRM and phone solutions
 * Maintained order quality for Fulfillment department, improving logistical solutions and negotiating daily operations within the nation-wide vendor network. Achieved avg. 60+% profit margin on all outsourced solutions
