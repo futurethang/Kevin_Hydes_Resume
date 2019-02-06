@@ -8,7 +8,6 @@ Seattle, WA 98101 •
 [Github](github.com/futurethang) • 
 [Website](kevindesignhyde.com/)
 
-
 Full-Stack Web Developer with a dedication to creative thinking, problem-solving, and thoughtful user experiences. Extensive career history of collaboration and creative solutions within technical services, sales, business enterprise, and freelance graphic design. Well versed in MERN stack application development and eager dabbler with new languages and technologies. 
 
 #### TECHNICAL SKILLS 
