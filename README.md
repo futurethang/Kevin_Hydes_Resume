@@ -34,8 +34,7 @@ Used HTML, CSS, jQuery, AJAX, and the Giphy API.
 https://futurethang.github.io/Giftastic/ | 
 
 #### PROFESSIONAL EXPERIENCE
-**UW Medical Research**                                               2017 -  Present
-##### Lead Media Technician
+**Lead Media Technician** • UW Medical Research • 2017 to Present
 * Oversee all in-house Audio Visual technology, mitigate and resolve issues, and assist users
 Plan for and execute events ranging from small meetings to auditorium seminars, break-out rooms, and outdoor solutions, hundreds annually
 * Track technology bugs and provide back-up solutions when needed
