@@ -17,20 +17,18 @@ Node.Js, Express, JavaScript, jQuery, React.js, GIT, Github, MongoDB, MySQL, Fir
 **Neighbor Corps** - Full Stack Mobile Developer
 
 A React Native iOS app designed and developed within 4 week time frame. Built on NodeJS with Express & Mongo API. Utilize NPM packages for GPS, Media handling, Validations, Formatting, and more. Designed using Adobe XD and Avocode.
-[Neighbor Corps Repository on GitHub](https://github.com/UWBC-Final-Project/Neighbor-Corps-React-Native)
+[Neighbor Corps on GitHub](https://github.com/UWBC-Final-Project/Neighbor-Corps-React-Native)
 
-**Liri** - Back-End Developer
+**Access Badge Manager** - Full-Stack Developer
 
-A Node App that prompts user input and returns search results for songs, concert, movies
-Uses API calls to OMDB, BandsInTown, and Spotify to show lists and detailed results
-Compiles searches into a log.txt file
-https://github.com/futurethang/Liri-Node-App | 
+A web app for tracking and managing temporary building access badge loans at a secure facility. Built with NodeJS, Express, MongoDB and React, and deployed on Heroku.
+[Access Badge Manager on GitHub](https://github.com/futurethang/Access_Badge_Manager) 
 
-**Giftastic** - Front-End Developer
+**Node Shopping Cart** - Back-End Developer
 
-An app for searching and viewing animated gifs
-Used HTML, CSS, jQuery, AJAX, and the Giphy API.
-https://futurethang.github.io/Giftastic/ | 
+A storefront app using NodeJS and MySQL. Takes in orders from customers and depletes stock from the store's inventory. Additional modules track product sales across the store's departments and then provide a summary of the highest-grossing departments in the store.
+[Node Shopping Cart on GitHub](https://github.com/futurethang/Bamazon)
+
 
 #### PROFESSIONAL EXPERIENCE
 **Lead Media Technician** • UW Medical Research • 2017 to Present
