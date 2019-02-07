@@ -4,9 +4,9 @@
 kphyde@gmail.com • 
 (773) 733-6073 • 
 Seattle, WA 98101 • 
-[LinkedIn](linkedin.com/in/kevin-hyde-54a71416/) • 
-[Github](github.com/futurethang) • 
-[Website](kevindesignhyde.com/)
+[LinkedIn](linkedin.com/in/kevin-hyde-54a71416/){:target="_blank"} • 
+[Github](github.com/futurethang){:target="_blank"} • 
+[Website](kevindesignhyde.com/){:target="_blank"}
 
 Full-Stack Web Developer with a dedication to creative thinking, problem-solving, and thoughtful user experiences. Extensive career history of collaboration and creative solutions within technical services, sales, business enterprise, and freelance graphic design. Well versed in MERN stack application development and eager dabbler with new languages and technologies. 
 
