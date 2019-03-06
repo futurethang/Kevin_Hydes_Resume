@@ -11,10 +11,13 @@ Seattle, WA 98101 •
 Full Stack Developer and experienced professional with background in creative services and small business. Passionate about problem solving and crafting delightful user experiences. Lifelong learner and enthusiastic team player.
 
 #### TECHNICAL SKILLS 
-_Front End:_ HTML, CSS, JavaScript, jQuery, Bootstrap, ReactJS
-_Back End:_ NodeJS, MySQL, MongoDB, ExpressJS, RESTful API development
-_Design:_ Photoshop, Illustrator, InDesign, XD
-_Soft Skills:_ Problem Solving, Communication, Leadership, Team Training
+**Front End:** HTML, CSS, JavaScript, jQuery, Bootstrap, ReactJS
+
+**Back End:** NodeJS, MySQL, MongoDB, ExpressJS, RESTful API development
+
+**Design:** Photoshop, Illustrator, InDesign, XD
+
+**Soft Skills:** Problem Solving, Communication, Leadership, Team Training
 
 #### PROFESSIONAL EXPERIENCE
 **Lead Media Technician** • UW Medical Research • 2017 to Present
