@@ -38,7 +38,7 @@ Full Stack Developer and experienced professional with background in creative se
 * Maintained 60% profit margin average on out-sourced solutions.
 * Adapted quickly to give inter-departmental aid in Marketing, IT, Special Events, and Warehouse departments.
 
-** Freelance Graphic Designer** • 2005 to Present
+**Freelance Graphic Designer** • 2005 to Present
 * Creative Web and Print services for individuals and businesses. 
 * Provide client consultations, research, and detailed bids to meet unique deadline and budget constraints. 
 * Supply persistent creative collaboration, revisions, and advice on printing or deployment.
