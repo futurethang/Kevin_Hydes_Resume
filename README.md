@@ -20,6 +20,11 @@ Full Stack Developer and experienced professional with background in creative se
 **Soft Skills:** Problem Solving, Communication, Leadership, Team Training
 
 #### PROFESSIONAL EXPERIENCE
+**Teacher's Assistant** • UW Part Time Full Stack Bootcamp • 2019 to Present
+* Provide support instruction at Full Stack developer bootcamp that trains students in CSS, HTML, JavaScript, AJAX, Node.js, Express.js, React.js, MySQL, MongoDB, RESTful APIs, and MVC architecture, among other libraries and frameworks. 
+* Empower students to become capable researchers, problem solvers, and lifelong learners. 
+* Address student challenges and frustrations to best understand and apply the ideas encountered in the curriculum.
+
 **Lead Media Technician** • UW Medical Research • 2017 to Present
 * Oversee in-house Audio Visual systems, solving real-time issues for a diverse user base. 
 * Manage setup and success of Videoconferencing, Webinars, and live audio events. 
