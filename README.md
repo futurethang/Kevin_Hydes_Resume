@@ -3,10 +3,10 @@
 
 kphyde@gmail.com • 
 (773) 733-6073 • 
-Seattle, WA 98101 • 
-[LinkedIn](https://linkedin.com/in/kevin-hyde-54a71416/) • 
+Seattle, WA 98126 • 
+[LinkedIn](https://linkedin.com/in/kevin-hyde-fullstack/) • 
 [Github](https://github.com/futurethang) • 
-[Website](https://www.kevindesignhyde.com/)
+[Website](https://www.kevinhydecreative.com/)
 
 Full Stack Developer and experienced professional with background in creative services and small business. Passionate about problem solving and crafting delightful user experiences. Lifelong learner and enthusiastic team player.
 
