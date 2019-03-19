@@ -11,19 +11,19 @@ Seattle, WA 98101 •
 Full Stack Developer and experienced professional with background in creative services and small business. Passionate about problem solving and crafting delightful user experiences. Lifelong learner and enthusiastic team player.
 
 #### TECHNICAL SKILLS 
-**Front End:** HTML, CSS, JavaScript, jQuery, Bootstrap, ReactJS
+**Front End:** HTML, CSS, JavaScript, jQuery, ReactJS, React Native
 
 **Back End:** NodeJS, MySQL, MongoDB, ExpressJS, RESTful API development
 
 **Design:** Photoshop, Illustrator, InDesign, XD
 
-**Soft Skills:** Problem Solving, Communication, Leadership, Team Training
+**Professionalism:** Problem Solving, Project Management, Communication, Leadership, Training
 
 #### PROFESSIONAL EXPERIENCE
 **Teaching Assistant** • UW Part Time Full Stack Bootcamp • 2019 to Present
-* Provide support instruction at Full Stack developer bootcamp that trains students in CSS, HTML, JavaScript, AJAX, Node.js, Express.js, React.js, MySQL, MongoDB, RESTful APIs, and MVC architecture, among other libraries and frameworks. 
+* Assist instruction of students to build modern web applications using the MERN JavaScript stack. 
 * Empower students to become capable researchers, problem solvers, and lifelong learners. 
-* Address student challenges and frustrations to best understand and apply the ideas encountered in the curriculum.
+* Address student’s unique challenges, ensure they can understand and apply skills, and compete in the job market.
 
 **Lead Media Technician** • UW Medical Research • 2017 to Present
 * Oversee in-house Audio Visual systems, solving real-time issues for a diverse user base. 
@@ -54,10 +54,10 @@ Full Stack Developer and experienced professional with background in creative se
 
 #### EDUCATION
 ##### University of Washington - JavaScript Full Stack Web Development
-An intensive 24-week-long boot camp dedicated to designing and building full stack web applications and perfecting the practice of learning new technologies in the rapid-pace industry
+Intensive full-stack web development boot camp. Developed mastery of JavaScript libraries and frameworks to build complete web and mobile applications with appealing UI and RESTful API principles.
 
 ##### Valparaiso University - BS in Fine Arts
-Liberal Arts degree with a focus on Visual Arts, Graphic Design and Art History
+Liberal Arts degree with focus on Visual Communication, Graphic Design, and Art History.
 
 #### WEB DEVELOPMENT PROJECTS
 **Neighbor Corps** - Full Stack Mobile Developer & Project Lead
